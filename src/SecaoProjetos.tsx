@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import CardProjeto from "./CardProjeto";
 
 const SecaoProjetos: React.FC = () => {
