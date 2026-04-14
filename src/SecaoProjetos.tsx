@@ -7,7 +7,7 @@ const SecaoProjetos: React.FC = () => {
     {
       id: 1,
       titulo: "Site Estático",
-      descricao: "Meu primeiro portfólio em HTML/CSS.",
+      descricao: "portfólio desenvolvido com HTML5 e CSS3 focado em responsividade.",
       link: "#",
     },
     {
