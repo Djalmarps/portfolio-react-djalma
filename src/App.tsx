@@ -10,8 +10,8 @@ export default function App() {
       <header
         style={{ backgroundColor: "#222", color: "white", padding: "50px 0" }}
       >
-        <h1>Portfólio de [Djalma rodrigues]</h1>
-        <p>Desenvolvedor React em formação</p>
+        <h1>Portfólio de Djalma rodrigues</h1>
+        <p>Desenvolvedor web em formação focado em React</p>
       </header>
 
       <main>
