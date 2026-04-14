@@ -1,4 +1,11 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+section {
+  margin: 40px 0;
+}
+
+h2 {
+  color: #38bdf8;
+}
+
+p {
+  color: #cbd5f5;
 }
