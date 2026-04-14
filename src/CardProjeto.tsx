@@ -1,4 +1,4 @@
- import React from "react";
+import React from "react";
 
 // Definindo o que cada card de projeto deve receber
 interface ProjetoProps {
